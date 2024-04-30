@@ -71,5 +71,3 @@ resource "aws_security_group" "security-group" {
     Name = var.sg-name
   }
 }
-
-#
